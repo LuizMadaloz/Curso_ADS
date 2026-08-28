@@ -1,0 +1,13 @@
+package icm;
+
+public class Icm {
+
+	public static void main(String[] args) {
+		int peso;
+		double altura;
+		Scanner teclado = new Scanner(System.in);
+
+	}
+
+}
+;
